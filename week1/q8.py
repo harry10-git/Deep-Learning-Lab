@@ -1,3 +1,4 @@
+# matrix multiplication
 import torch
 
 random_tensor1 = torch.rand(7, 7)
